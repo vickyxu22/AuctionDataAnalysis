@@ -1,4 +1,4 @@
-# AuctionDataAnalysis
+# Auction Data Analysis
 
 ## Project Overview
 
