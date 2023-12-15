@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The `AuctionDataAnalysis` class is tailored to dissect auction records of artworks cataloged in a CSV file. It executes an array of data preprocessing operations and generates visual representations to facilitate a comprehensive understanding of the dataset.
+The `AuctionDataAnalysis` class is used for preprocessing auction records and generating a data analysis report to facilitate understanding trends and data patterns within the auction records.
 
 ### Class Methods:
 1. `__init__(file_path)`: Initializes the class with the specified dataset file path.
